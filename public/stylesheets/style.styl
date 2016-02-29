@@ -1,0 +1,207 @@
+/*
+ * Import nib
+ */
+@import 'nib'
+
+/*
+ * Grab a custom font from Google
+ */
+@import url('http://fonts.googleapis.com/css?family=Quicksand')
+
+/*
+ * Nib provides a CSS reset
+ */
+global-reset()
+
+/*
+ * Store the main color and
+ * background color as variables
+ */
+main-color = #045FB4
+background-color = #faf9f0
+redish = #C85252
+teal = #009F2A
+darkblue =#0267CD
+paleyellow =#F2F2B4
+lightgreen =#C4FBD8
+lightorange = #FECF9A
+lightblue = #9AA5FE
+
+
+body
+  font-family 'Georgia'
+  background-color background-color
+  color #444
+
+header
+  font-family 'Quicksand'
+  padding 50px 5px
+  color white
+  text-decoration none
+  font-size 75px
+  background-color #447289
+  border-bottom 5px solid darken(lightblue, 0%)
+  text-shadow 1px -3px 3px darken(black, 30%)
+
+header a
+  text-decoration none
+  color white
+
+#buttons a
+  display block
+  height 50px
+  width 150px
+  overflow hidden
+  background #FC0
+  margin-bottom 10px
+  text-decoration none
+  border-radius: 10px
+  border 1px solid black
+  padding 0px
+  
+#buttons h6
+  font-family 'Quicksand'
+  color teal
+  line-height 50px
+  text-align center
+  font-weight bold
+  text-shadow 1px 1px 1px black
+  -webkit-transition all 0.3s linear
+  -moz-transition all 0.3s linear
+  transition all 0.3s linear
+  
+#buttons h5
+  opacity 0
+  font-size 13px
+  text-align center
+  color teal
+  background-color paleyellow
+  height 50px
+  line-height 50px
+  -webkit-transition all 0.2s linear
+  transition all 0.2s linear
+  
+#buttons a:hover h6
+  margin-top: -50px
+  opacity 0
+
+#buttons a:hover h5
+  opacity 1000
+  
+  
+#title
+  font-size 40px
+  margin-top 10px
+  margin-bottom 10px
+  width 100%
+  color redish
+
+#container
+  width 70%
+  margin auto
+  overflow hidden
+
+#main-content
+  float left
+  width 70%
+  margin-left 15%
+  margin-right 15%
+  
+//custom radio buttons
+input[type = "submit"]
+  display none
+
+input[type = "radio"]
+  display none
+
+input[type = "radio"] + label
+  display block
+  border 1px solid black
+  margin 0
+  height 30px
+  width 250px
+  padding 0
+  background-color white
+
+input[type = "radio"]:checked + label
+  font-size 16px
+  background-color lightgreen
+  height 110px
+  
+label
+  overflow hidden
+  text-align center
+  webkit-transition all 0.3s linear
+  transition all 0.3s linear
+  line-height 5px
+  
+#main-content h7
+  line-height 27px
+  transition all 0.2s linear
+  
+#main-content h8
+  font-size  11px
+  line-height 20px
+
+label:hover h7
+  background-color lightgreen
+
+#list
+  margin auto
+  margin-bottom 10px
+  text-align center
+  line-height 40px
+  display block
+  height 300px
+  width 500px
+  overflow hidden
+  background lightgreen
+  border-radius: 10px
+  border 1px solid black
+  padding 0px
+  
+#list a:link
+  color blue
+#list a:visited
+  color:blue
+
+#unis
+  display block
+  margin auto
+  background lightgreen
+  width 300px
+  height 300px
+  line-height 35px
+  text-align center
+  border-radius 10px
+  border 1px solid black
+  padding 0px
+  margin-bottom 10px
+
+#unititle
+  text-align center
+  font-size 20px
+  color redish
+  
+  
+//custom submit buttons
+#submit
+  display block
+  height 50px
+  width 150px
+  overflow hidden
+  background #FC0
+  margin-left 215px
+  text-decoration none
+  border-radius: 10px
+  border 1px solid black
+  padding 0px
+
+
+footer
+  text-align center
+  width 100%
+  border-top 1px dotted #ccc
+  padding-top 5px
+  font-size 13px
+  font-style italic

@@ -1,0 +1,32 @@
+extends layout
+
+
+
+block content
+	<div id="title">
+	p <center>AVAILABLE UNIVERSITIES</center>
+	</div>
+
+	#list
+		ul
+			each uni, i in availableUnis
+				li: <a href = #{aUnisUrl[i]} target = "blank">#{uni}</a>
+	#unis
+		<div id="unititle">
+		p UNIVERSITIES SEARCHED
+		</div>
+		p McGill
+		p Concordia
+		p UQAM
+		p University of Montreal
+		p Polytechnique
+		p H.E.C.
+		p Sherbrooke
+
+	#buttons
+		<center>
+		<a href = "https://github.com/micklethepickle/wheredoiapply" target = "blank">
+		<h6>GITHUB PAGE</h6>
+		<h5>Source code at Github</h5>
+		</a>
+		</center>

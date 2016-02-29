@@ -11,3 +11,5 @@
 {"name" : "H.E.C.", "mecheng" : 100, "law" : 100, "accounting" : 26.5, "cs" : 100, "commerce" : 26.5, "business" : 26.5, "ee" : 100, "management" : 26.5, "med" : 100, "health" : 100, "se" : 100, "physical" : 100, "dent" : 100, "url" : "http://www.polymtl.ca/admission/en"}
 
 {"name" : "Sherbrooke", "mecheng" : 26.4, "law" : 29.4, "accounting" : 100, "cs" : 15, "commerce" : 23.1, "business" : 23.1, "ee" : 22.1, "management" : 23.1, "med" : 33.3, "health" : 15, "se" : 20, "physical" : 15, "dent" : 100, "url" : "http://www.usherbrooke.ca/admission/"}
+
+caca

@@ -1,13 +1,10 @@
-# Where Do I Apply
 
-a site to know where you apply
+# WhereDoIApplyV2.0
+wheredoiapply site final version
 
-Authors:
-<br>
+Created by: 
 Michel Ma
-<br>
-Robert Riachi
-<br>
+Edward Son
 Silan He
-<br>
-and Edward Son
+Robert Riachi
+

@@ -35,7 +35,7 @@ var caUnis = mongoose.model('caUnis',
 			 mecheng: Number});
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'CHOOSE YOUR FIELD' });
+  res.render('index', { title: 'Where Do I Apply' });
 });
 /* GET findUnis page*/
 router.get('/findUnis', function(req, res, next) {

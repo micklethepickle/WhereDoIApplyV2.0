@@ -3,8 +3,8 @@
 wheredoiapply site final version
 
 Created by: 
-Michel Ma
-Edward Son
-Silan He
+Michel Ma,
+Edward Son,
+Silan He,
 Robert Riachi
 

@@ -1,3 +1,5 @@
+// db.unis
+
 {"name" : "McGill", "mecheng" : 29.4, "law" : 30.75, "accounting" : 28.8, "cs" : 28, "commerce" : 28.8, "business" : 28.8, "ee" : 28.5, "management" : 28.8, "med" : 32.24, "health" : 28, "se" : 28.5, "physical" : 28, "dent" : 32.21, "url" : "https://horizon.mcgill.ca/pban1/hzskalog.P_DISPLANGUECHOICE"}
 
 {"name" : "Concordia", "mecheng" : 25, "law" : 100, "accounting" : 26, "cs" : 25, "commerce" : 26, "business" : 26, "ee" : 24, "management" : 26, "med" : 69, "health" : 20, "se" : 25, "physical" : 15, "dent" : 100, "url" :"https://www.concordia.ca/admissions.html"}
@@ -11,3 +13,25 @@
 {"name" : "H.E.C.", "mecheng" : 100, "law" : 100, "accounting" : 26.5, "cs" : 100, "commerce" : 26.5, "business" : 26.5, "ee" : 100, "management" : 26.5, "med" : 100, "health" : 100, "se" : 100, "physical" : 100, "dent" : 100, "url" : "http://www.polymtl.ca/admission/en"}
 
 {"name" : "Sherbrooke", "mecheng" : 26.4, "law" : 29.4, "accounting" : 100, "cs" : 15, "commerce" : 23.1, "business" : 23.1, "ee" : 22.1, "management" : 23.1, "med" : 33.3, "health" : 15, "se" : 20, "physical" : 15, "dent" : 100, "url" : "http://www.usherbrooke.ca/admission/"}
+
+// db.caUnis
+
+{"name" : "UBC", "mecheng" : 85, "law" : 1000, "accounting" : 85, "cs" : 85, "commerce" : 85, "business" : 85, "ee" : 85, "management" : 85, "med" : 1000, "health" : 85, "se" : 85, "physical" : 85, "dent" : 1000, "url" : "https://account.you.ubc.ca/ubc/apply/apply_now.ezc"}
+
+{"name" : "UofT", "mecheng" : 89.4, "law" : 1000, "accounting" : 85, "cs" : 87, "commerce" : 85, "business" : 85, "ee" : 90.1, "management" : 85, "med" : 1000, "health" : 81, "se" : 1000, "physical" : 81, "dent" : 1000, "url" :"http://www.adm.utoronto.ca/admissions/?domain=ADM&page=about&p1=true"}
+
+{"name" : "Waterloo", "mecheng" : 85, "law" : 1000, "accounting" : 87, "cs" : 85, "commerce" : , "business" : 15, "ee" : 85, "management" : 87, "med" : 1000, "health" : 80, "se" : 90, "physical" : 80, "dent" : 1000, "url" : "https://uwaterloo.ca/find-out-more/admissions/applying-waterloo"}
+
+{"name" : "Western", "mecheng" : 87, "law" : 1000, "accounting" : 85, "cs" : 81, "commerce" : 1000, "business" : 1000, "ee" : 87, "management" : 85, "med" : 1000, "health" : 81, "se" : 1000, "physical" : 81, "dent" : 1000, "url" : "http://welcome.uwo.ca/admissions/how_to_apply/"} 
+
+{"name" : "uOttawa", "mecheng" : 78, "law" : 1000, "accounting" : 1000, "cs" : 73, "commerce" : 1000, "business" : 1000, "ee" : 73, "management" : 100, "med" : 1000, "health" : 75, "se" : 73, "physical" : 75, "dent" : 1000, "url" : "http://www.registraire.uottawa.ca/Default.aspx?tabid=4535"} 
+
+{"name" : "McGill", "mecheng" : 95, "law" : 1000, "accounting" : 94.3, "cs" : 100, "commerce" : 94.3, "business" : 94.3, "ee" : 90, "management" : 94.3, "med" : 1000, "health" : 93, "se" : 90, "physical" : 89, "dent" : 1000, "url" : "http://www.mcgill.ca/applying/apply"}
+
+{"name" : "UofAlberta", "mecheng" : 85, "law" : 1000, "accounting" : 85, "cs" : 85, "commerce" : 85, "business" : 85, "ee" : 85, "management" : 85, "med" : 1000, "health" : 85, "se" : 85, "physical" : 85, "dent" : 1000, "url" : "https://business.ualberta.ca/programs"}
+
+{"name" : "McMaster", "mecheng" : 88, "law" : 1000, "accounting" : 83, "cs" : 86, "commerce" : 83, "business" : 83, "ee" : 88, "management" : 83, "med" : 1000, "health" : 90, "se" : 88, "physical" : 82, "dent" : 1000, "url" : "http://future.mcmaster.ca/admission/admission-requirements/"}
+
+
+
+
